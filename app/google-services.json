@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338960430935",
+    "firebase_url": "https://train-track-f24fd.firebaseio.com",
+    "project_id": "train-track-f24fd",
+    "storage_bucket": "train-track-f24fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338960430935:android:9d920fb5a612a0e2a37012",
+        "android_client_info": {
+          "package_name": "com.example.traintrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338960430935-2fv7ctpghgh8iqa2mdt6old7or2ajmkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdbKd-AgM2BQL-GVobTv60bkkD3m-m9Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338960430935-2fv7ctpghgh8iqa2mdt6old7or2ajmkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#03A9F4">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#03A9F4"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/teacher_home"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Create a New Class"
+                android:textAlignment="center"
+                android:textSize="70sp"
+                android:gravity="center"
+                android:paddingBottom="30dp"/>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/new_classname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:errorEnabled="true">
+
+                <com.google.android.material.textfield.TextInputEditText
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="@color/white"
+                    android:drawableStart="@drawable/ic_person"
+                    android:drawablePadding="20dp"
+                    android:hint="@string/class_name"
+                    android:inputType="textPersonName"
+                    android:padding="20dp" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/new_classsize"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:errorEnabled="true">
+
+                <com.google.android.material.textfield.TextInputEditText
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="@color/white"
+                    android:drawableStart="@drawable/ic_people"
+                    android:drawablePadding="20dp"
+                    android:hint="@string/number_of_students"
+                    android:inputType="number"
+                    android:padding="20dp" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <Button
+                android:id="@+id/create_classroom"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#0264c7"
+                android:onClick="createNewClassroom"
+                android:padding="20dp"
+                android:text="Create New Class"
+                app:iconPadding="20dp"
+                android:focusableInTouchMode="false"/>
+
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

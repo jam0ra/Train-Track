@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#03A9F4"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/join_class_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter Classcode"
+        android:textAlignment="center"
+        android:textSize="50sp"
+        android:gravity="center"
+        android:paddingBottom="30dp"/>
+
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@id/validate_code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:errorEnabled="true">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/validate_code"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:drawablePadding="20dp"
+            android:hint="@string/class_code"
+            android:inputType="text"
+            android:padding="20dp" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+
+    <Button
+        android:id="@+id/code_validateBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#0264c7"
+        android:padding="20dp"
+        android:onClick="validateCode"
+        android:text="Enter"
+        app:iconPadding="20dp" />
+
+</LinearLayout>

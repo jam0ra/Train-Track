@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Train Track</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="train_track">Train Track</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="student">Student</string>
+    <string name="teacher">Teacher</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="home">Home</string>
+    <string name="email">Email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="blue_gradient_background" translatable="false">Blue Gradient Background</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="log_out">Log Out</string>
+    <string name="join_classroom">Join Classroom</string>
+    <string name="student_homepage">Student Homepage</string>
+    <string name="teacher_homepage">Teacher Homepage</string>
+    <string name="settings">Settings</string>
+    <string name="assignments">Assignments</string>
+    <string name="title_roster">Roster</string>
+    <string name="class_name">Class Name</string>
+    <string name="number_of_students">Number of Students</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="title">Title</string>
+    <string name="one">one</string>
+    <string name="description">Description</string>
+    <string name="create_new_assignment">Create new Assignment</string>
+    <string name="class_code">Class Code</string>
+    <string name="classroom_list">Classroom List</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="student_name">Student Name</string>
+    <string name="empty_roster">EMPTY ROSTER</string>
+    <string name="train_track_logo">Train Track Logo</string>
+    <string name="putting_the_physical_back_in_education">Putting the physical back in education</string>
+    <string-array name="user_types">
+        <item>Select a user type</item>
+        <item>Student</item>
+        <item>Teacher</item>
+    </string-array>
+</resources>

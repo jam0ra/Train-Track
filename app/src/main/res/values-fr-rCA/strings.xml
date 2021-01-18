@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Train Track</string>
+    <string name="title_home">Page centrale</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="train_track">Train Track</string>
+    <string name="title_dashboard">Tablue de bord</string>
+    <string name="log_in">Connectez-vous</string>
+    <string name="sign_up">Inscrivez-vous</string>
+    <string name="forgot_password">Oublieé votre mot de passe</string>
+    <string name="student">Étudiant</string>
+    <string name="teacher">Instructeur</string>
+    <string name="open_camera">Ouvriez la caméra</string>
+    <string name="home">Centre</string>
+    <string name="email">Email</string>
+    <string name="reset_password">Recomposez votre mot de passe</string>
+    <string name="password">Mot de passe</string>
+    <string name="full_name">Votre nom complet</string>
+    <string name="log_out">Déconnectez-vous</string>
+    <string name="join_classroom">Rejoindre une salle de classe</string>
+    <string name="student_homepage">Page centrale d\'étudiant</string>
+    <string name="teacher_homepage">Page centrale d\'instructeur</string>
+    <string name="settings">Réglages</string>
+    <string name="assignments">Devoirs</string>
+    <string name="title_roster">Liste</string>
+    <string name="class_name">Nom de la classe</string>
+    <string name="number_of_students">Nombre d\'étudiants</string>
+    <string name="add_photo">Ajoutez une photo</string>
+    <string name="profile_picture">Photo de profil</string>
+    <string name="title">Titre</string>
+    <string name="one">Une</string>
+    <string name="create_new_assignment">Ajoutez devoirs</string>
+    <string name="class_code">Code de la classe</string>
+    <string name="classroom_list">Liste de la salle de classe</string>
+    <string name="description">Description</string>
+    <string name="delete_account">Supprimer la compte</string>
+    <string name="student_name">Nom D\'étudiant</string>
+    <string name="empty_roster">LISTE DE CLASSE VIDE</string>
+    <string name="your_runs">Mes Courses</string>
+    <string name="statistics">Statistiques</string>
+    <string name="start_text">Démarrer</string>
+    <string name="stop_text">Arrêt</string>
+    <string name="running_app">Application de Courses</string>
+</resources>

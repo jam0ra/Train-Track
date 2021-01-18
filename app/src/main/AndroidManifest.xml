@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.traintrack">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TrainTrack">
+        <activity android:name=".Notification" />
+        <activity android:name=".ShowVideoSubmission" />
+        <activity android:name=".SubmissionVideo" />
+        <activity android:name=".TeacherClassListActivity"/>
+        <activity android:name=".CreateClassroomActivity"/>
+        <activity android:name=".ClassroomActivity"/>
+        <activity android:name=".StudentValidateClasscodeActivity"/>
+        <activity android:name=".ShowVideo" />
+        <activity android:name=".DemoVideo" />
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".ForgotPasswordActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".TeacherAssignmentActivity"/>
+        <activity android:name=".NewNoteActivity"
+            android:parentActivityName=".TeacherAssignmentActivity"/>
+        <activity android:name=".StudentAssignmentActivity"/>
+        <activity android:name=".ui.RosterActivity"/>
+        <activity android:name=".SettingsActivity"/>
+        <activity android:name=".MainActivity"/>
+
+        <activity
+            android:name=".SplashScreen" android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
