@@ -3,4 +3,5 @@
 A teaching tool for Android designed to help orchestrate Physical Education classes.  
   
 Created during the 2020 Fall Semester of CMPT 276 at SFU.  
+  
 Team Members: Matthew Bennett, John Jamora, Daewoong (Andy) Jun, and Siddhant Patel.  
