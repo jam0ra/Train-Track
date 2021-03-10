@@ -15,6 +15,10 @@ Created during the 2020 Fall Semester of CMPT 276 at SFU.
 - Java
 - Android Studio
 - Google Firebase
+  - Authentication
+  - Cloud Firestore
+  - Realtime Database
+  - Storage
 
 ## Contributors ##
 Team Members: Matthew Bennett, John Jamora, Daewoong (Andy) Jun, and Siddhant Patel.  
