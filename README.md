@@ -22,3 +22,6 @@ Created during the 2020 Fall Semester of CMPT 276 at SFU.
 
 ## Contributors ##
 Team Members: Matthew Bennett, John Jamora, Daewoong (Andy) Jun, and Siddhant Patel.  
+
+## Acknoledgements ##
+Special thanks to <a href="https://github.com/codinginflow">Florian Walther (Coding in Flow)</a> for his Android Studio tutorials on <a href="https://www.youtube.com/c/CodinginFlow/featured">YouTube</a>.
