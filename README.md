@@ -8,5 +8,10 @@ Check out our <a href="https://www.youtube.com/watch?v=wMdfiz-XgUM">demonstratio
 
 Created during the 2020 Fall Semester of CMPT 276 at SFU.  
 
+## Technologies Used ##
+- Java
+- Android Studio
+- Google Firebase
+
 ## Contributors ##
 Team Members: Matthew Bennett, John Jamora, Daewoong (Andy) Jun, and Siddhant Patel.  
