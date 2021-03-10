@@ -12,7 +12,7 @@ Check out our <a href="https://www.youtube.com/watch?v=wMdfiz-XgUM">demonstratio
 Created during the 2020 Fall Semester of CMPT 276 at SFU.  
 
 ## Technologies Used ##
-- Java
+- Java (Version 1.8)
 - Android Studio
 - Google Firebase
   - Authentication
