@@ -1,6 +1,6 @@
 # Train Track #
 <img src="https://github.com/jam0ra/Train-Track/blob/master/app/src/main/res/mipmap-xxxhdpi/logo.png?raw=true" alt="Train Track Logo" width="30%" height="30%">  
-Putting the physical back in education.
+"Putting the physical back in education."
 
 ## About ##
 A teaching tool for Android designed to help orchestrate Physical Education classes. The application was built using Java in Android Studio, and is connected to Google Firebase for storage and authentication.
